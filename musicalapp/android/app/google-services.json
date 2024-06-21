@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505000605506",
+    "project_id": "musicalapp-96621",
+    "storage_bucket": "musicalapp-96621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505000605506:android:00a140957ce6e02435badb",
+        "android_client_info": {
+          "package_name": "com.example.musicalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnDDPERUSLKhYY_4AuPhroOUXdO_kHVMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
